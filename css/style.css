@@ -1,0 +1,28 @@
+.navbar-inverse {
+  background-color: #67727A; }
+
+.navbar-inverse .navbar-nav li {
+  padding: 0px 20px;
+  font-size: 1.3em; }
+  .navbar-inverse .navbar-nav li a {
+    color: #F5F5F5;
+    border-radius: 20px;
+    margin: 5px 0px; }
+    .navbar-inverse .navbar-nav li a:hover {
+      background-color: #D75C37; }
+  .navbar-inverse .navbar-nav li .active {
+    color: #D75C37; }
+    .navbar-inverse .navbar-nav li .active:hover {
+      background-color: #67727A;
+      color: #D75C37; }
+.navbar-inverse .navbar-brand {
+  height: 100px;
+  width: 500px;
+  background-image: url(../img/logo-rekpol.png); }
+.navbar-inverse .navbar-toggle:hover {
+  background-color: #D75C37; }
+.navbar-inverse .navbar-toggle:focus {
+  background-color: #D75C37; }
+.navbar-inverse a {
+  margin: 0px;
+  padding: 0px; }
